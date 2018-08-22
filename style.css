@@ -1,0 +1,54 @@
+body {
+    background: #22223f;
+}
+
+.navbar {
+    width: 965px;
+    margin: auto;
+    background-color: rgb(43, 41, 53);
+}
+
+.navbar-light .navbar-brand {
+    color: bisque;
+
+}
+
+
+.container {
+    background-color: #272731;
+    padding: 10px;
+    font-family: 'Inconsolata', monospace;
+    width: 965px;
+    height: 500px;
+    margin-top: 20px;
+    align-content: center;
+    border: solid 8px;
+    border-color: rgb(83, 54, 87);
+    color: rgb(236, 229, 229);
+}
+
+img {
+    float: right;
+    padding: 10px;
+}
+
+footer {
+    color: bisque;
+    width: 965px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border: solid 4px;
+    border-color: rgb(83, 54, 87);
+    padding: 10px;
+}
+
+#formGroupExampleInput3 {
+    height: 100px; /* I couldn't change the form input size. typing starts from center*/
+}
+
+#bottom {
+    margin-top: 40px;
+}
+
+
